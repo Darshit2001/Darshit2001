@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Darshit Gupta
 - 👀 I’m interested in Programing and Development
-- 🌱 I’m currently learning ...
+📫 How to reach me darshitgupta.knp2019@gmail.com
 
 
 <!---
